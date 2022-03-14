@@ -1,0 +1,27 @@
+.displaybutton{
+    display: block;
+}
+
+.hiddebutton{
+    display: none;
+}
+
+.addButton{
+    width:10%;
+    padding:10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.align-center{
+    text-align: center;
+}
+.text-input{
+    padding:10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 30%;
+}
+.item-size{
+    font-size: 20px;
+}
